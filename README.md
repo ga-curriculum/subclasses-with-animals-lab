@@ -1,5 +1,7 @@
 # ![[tktk Module Name]](./assets/subclasses-animals-lab.png)
 
+# THIS REPO IS DEPRECATED, BUT STILL IN USE BY IN-FLIGHT COHORTS. IT CAN BE DELETED AFTER APR 1, 2025. You are likely looking for [this](https://git.generalassemb.ly/modular-curriculum-all-courses/java-subclasses-with-animals-lab) repo instead.
+
 ## About
 
 In this lab, you will be using your knowledge of classes to build an Animal class, complete with properties, getters, and setters. After completing the class, you'll then create subclasses of Animal called Mammal and Reptile. Finally, you'll create at least one subclass of Mammal and one subclass of Reptile, making them whatever animals you want.
