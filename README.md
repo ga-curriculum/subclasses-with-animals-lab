@@ -1,6 +1,6 @@
 # ![[tktk Module Name]](./assets/subclasses-animals-lab.png)
 
-# THIS REPO IS DEPRECATED, BUT STILL IN USE BY IN-FLIGHT COHORTS. IT CAN BE DELETED AFTER APR 1, 2025. You are likely looking for [this](https://git.generalassemb.ly/modular-curriculum-all-courses/java-subclasses-with-animals-lab) repo instead.
+# THIS REPO IS DEPRECATED, BUT STILL IN USE BY IN-FLIGHT COHORTS. IT CAN BE DELETED AFTER APR 1, 2025. You are likely looking for [this](https://github.com/ga-curriculum/java-subclasses-with-animals-lab) repo instead.
 
 ## About
 
@@ -23,7 +23,7 @@ Estimated time to complete core lab exercise: **45 min**
 
 ## Solution code
 
-🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/subclasses-with-animals-lab-solution)
+🏁 [Solution code](https://github.com/ga-curriculum/java-subclasses-with-animals-lab-solution)
 
 ## Internal resources
 
